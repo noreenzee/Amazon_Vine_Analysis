@@ -19,11 +19,16 @@ The purpose of this analysis is to perform the ETL process using Pyspark to extr
 # Resources
 
 *-Google Colaboratory. 
+
 *-PySpark.
+
 *-Amazon Web Services (AWS).
-*-PostgreSQL. 
+
+*-PostgreSQL.
+
 *-pgAdmin 4.
-#-Data source:
+
+# Data source
 
 *-Amazon Review datasets.
 *-Amazon Toys Reviews.
