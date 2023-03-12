@@ -18,15 +18,15 @@ The purpose of this analysis is to perform the ETL process using Pyspark to extr
 
 # Resources
 
-*-Google Colaboratory 
-*-PySpark
-*-Amazon Web Services (AWS)
-*-PostgreSQL 
-*-pgAdmin 4
+*-Google Colaboratory. 
+*-PySpark.
+*-Amazon Web Services (AWS).
+*-PostgreSQL. 
+*-pgAdmin 4.
 #-Data source:
 
-*-Amazon Review datasets
-*-Amazon Toys Reviews
+*-Amazon Review datasets.
+*-Amazon Toys Reviews.
 # Results
 We were assigned to address following questions and we extracct the following output
 How many Vine reviews and non-Vine reviews were there?
