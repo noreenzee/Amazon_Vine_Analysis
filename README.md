@@ -13,6 +13,12 @@ In this challenge Amazon vine analysis is perfored using Big Data technologies
 ![image](https://user-images.githubusercontent.com/112978144/224560386-058646f7-8afc-4192-89df-16e9b74c7253.png)
 
 # OverView
+
+Amazon Vine is a program that allows selected reviewers to exchange their unbiased reviews to receive free products. These reviewers, called "Vine Voices," are chosen based on their previous reviews and helpfulness ratings on Amazon.
+
+Vine reviews are identified with a green badge that says "Vine Customer Review of Free Product." These reviews are labeled as such to indicate that the reviewer received the product for free, and to assure potential buyers that the review is unbiased.
+
+Vine reviews are subject to the same guidelines as all other reviews on Amazon. Reviewers are expected to provide their honest opinions and experiences with the product, regardless of whether they received it for free or not. They are also required to disclose that they received the product for free in their review
 *- Purpose
 The purpose of this analysis is to perform the ETL process using Pyspark to extract one of the datasets from Amazon reviews from the members of the paid Amazon Vine program. In order to work on this challenge data is transformed , connected to an AWS RDS instance, loaded the transformed data into pgAdmin, and then used PySpark to determine if there were any biases towards favorable reviews from Vine members in the dataset.
 
